@@ -24,7 +24,7 @@ The objective of the code is to create a simple To-Do List web application.
 The user can enter text into the input field (<input type="text" id="input-box">) to describe a task they want to add to their to-do list.
 
 - Adding a Task:
-The user clicks the "Add" button, which triggers the addTask() function. This function collects the text entered by the user and appends it as a new list item (<li>) under the unordered list.
+The user clicks the "Add" button, which triggers the addTask() function. This function collects the text entered by the user and appends it as a new list item (li) under the unordered list.
 
 - Displaying Tasks:
 The new task is displayed on the web page as an item in the list. The list updates dynamically each time a new task is added.
