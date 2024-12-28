@@ -30,7 +30,7 @@ The user clicks the "Add" button, which triggers the addTask() function. This fu
 The new task is displayed on the web page as an item in the list. The list updates dynamically each time a new task is added.
  
 - Interactivity with Button:
-The button (<button onclick="addTask()">) triggers the addTask() function when clicked, ensuring that tasks are added to the list.
+The button (button onclick="addTask()") triggers the addTask() function when clicked, ensuring that tasks are added to the list.
 
 • Technologies Used:
 
