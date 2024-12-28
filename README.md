@@ -12,7 +12,7 @@ Mentor: Neela Santhosh Kumar
 
 Project: To-Do-List
 
-[![IMG-20241228-151642.jpg](https://i.postimg.cc/y8mtTH4F/IMG-20241228-151642.jpg)](https://postimg.cc/rDpf87pm)
+[![IMG-20241228-151809.jpg](https://i.postimg.cc/cLDxcwN7/IMG-20241228-151809.jpg)](https://postimg.cc/LJ1F9q5h)
 
 • objective :
 
