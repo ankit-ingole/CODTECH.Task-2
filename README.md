@@ -35,13 +35,11 @@ The button (button onclick="addTask()") triggers the addTask() function when cli
 • Technologies Used:
 
 -HTML (HyperText Markup Language):
-Used for creating the basic structure of the web page, such as defining elements like headings, buttons, lists, and input fields.
+HTML forms the structure of the page, defining the elements such as headings, buttons, and lists. It tells the browser what content to display and how it should be organized.
 
 -CSS (Cascading Style Sheets):
-External CSS file (https://secondtask.tiiny.site/style.css) is linked to style the webpage, controlling the visual presentation and layout of the page.
+CSS controls the look and feel of the page, such as the layout, colors, fonts, and spacing.
 
 -JavaScript:
-External JavaScript files (https://secondtask.tiiny.site/script.js and https://tiiny.host/ad-script.js) are included for interactive functionalities.
-The JavaScript file handles the logic behind adding tasks to the to-do list, and possibly tracking user activity or showing advertisements.
-External Analytics (Plausible Analytics):
+JavaScript is used for adding interactivity to the webpage, like handling user input, manipulating content dynamically, and responding to user actions such as clicks or text input.
 
